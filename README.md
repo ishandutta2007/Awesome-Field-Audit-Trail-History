@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Field-Audit-Trail-History/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Field-Audit-Trail-History?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Field-Audit-Trail-History/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Field-Audit-Trail-History?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Field-Audit-Trail-History/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Field-Audit-Trail-History?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Field-Audit-Trail-History/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Field-Audit-Trail-History?color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -81,7 +81,7 @@ All platforms are sorted descending by **Company Scale (Annual Revenue / Market 
 
 This section features open-source libraries, immutable databases, Change Data Capture (CDC) systems, and compliance frameworks for building custom, transparent, and vendor-neutral audit trails.
 
-All projects are sorted descending by **GitHub Star Count** ⭐ and feature white social star badges linking directly to each repository's stargazers page:
+All projects are sorted descending by **GitHub Stars_Count** ⭐ and feature white social Stars_Badges linking directly to each repository's stargazers page:
 
 1. **[n8n](https://github.com/n8n-io/n8n)** <a href="https://github.com/n8n-io/n8n/stargazers"><img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white" alt="n8n Stars" /></a>  
    Fair-code workflow automation platform with visual node-based pipelines for automated audit trail exports, compliance webhook ingestion, and event-driven data archival.
@@ -147,7 +147,7 @@ Contributions are welcome! Help us keep this directory exhaustive and up to date
 1. Fork the repository.
 2. Add or update entries in `README.md` following the established format.
 3. For SaaS entries, include verified pricing and specific free tier/trial limits.
-4. For open-source projects, include the white social star badge linking to the repository stargazers page.
+4. For open-source projects, include the white social Stars_Badge linking to the repository stargazers page.
 5. Submit your PR with a clear, concise description!
 
 Check out our curated master list of awesome lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)! 🌟
